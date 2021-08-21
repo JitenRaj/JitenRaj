@@ -5,6 +5,12 @@
 <p> <img align="center" width="100%" src="/images/Ji10TwitterCover.jpg" /> </a> </p>
 <hr>
 
+<p align="center">
+  <img src="https://github.com/ji10raj/ji10raj/raw/output/github-contribution-grid-snake.svg" width="95%" alt="snake"></center>
+</p>
+
+<hr>
+
 <div align="center">
 
 <h2>
