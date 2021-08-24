@@ -1,10 +1,8 @@
-<h2 align="center">Hi there 👋 I am Jiten </h2>
-<h3 align="center">Web Development enthusiast and ECE student at Jain University</h3>
-
-<hr>
 <p> <img align="center" width="100%" src="/images/Ji10TwitterCover.jpg" /> </a> </p>
 <br>
-
+<h2 align="center">Hi there 👋 I am Jiten </h2>
+<h3 align="center">Web Development enthusiast and ECE student at Jain University</h3>
+<br>
 <p align="center">
   <img src="https://github.com/ji10raj/ji10raj/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake"></center>
 </p>
@@ -12,7 +10,6 @@
 <hr>
 
 <div align="center">
-
 <h2 align="center">Tech Stack</h2>
   <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
