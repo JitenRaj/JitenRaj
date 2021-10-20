@@ -1,9 +1,5 @@
 <p> <img align="center" width="100%" src="/images/Ji10TwitterCover.jpg" /> </a> </p><br>
 <h2 align="center">Hi there 👋 I am Jiten </h2>
-<h3 align="center">Web Development enthusiast and ECE student at Jain University</h3><br>
-<p align="center">
-  <img src="https://github.com/ji10raj/ji10raj/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake"></center>
-</p>
 <hr>
 <div align="center">
 
