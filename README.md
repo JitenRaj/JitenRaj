@@ -1,6 +1,5 @@
 <p> <img align="center" width="100%" src="/images/Ji10TwitterCover.jpg" /> </a> </p><br>
 <h2 align="center">Hi there 👋 I am Jiten </h2>
-<hr>
 <div align="center">
 
 <h2 align="center">
