@@ -7,6 +7,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%2343853D.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/springboot-%2343853D.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Vs Code" src="https://img.shields.io/badge/vscode-%230081CB.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
